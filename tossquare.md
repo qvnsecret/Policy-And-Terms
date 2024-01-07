@@ -40,6 +40,6 @@ By using Square, you agree to the following terms:
 ## 6. Contact Information
 -------------------
 
-6.1 **Questions**: If you have any questions or concerns regarding this privacy policy, you can contact us at qvn.secret@gmail.com.
+6.1 **Questions**: If you have any questions or concerns regarding this privacy policy, you can contact us at hi.squareup@gmail.com.
 
 By using Square, you acknowledge that you have read and understood this terms of service.
