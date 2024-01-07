@@ -43,6 +43,6 @@ Thank you for using Square! This privacy policy outlines how we collect, use, an
 ## 7. Contact Information
 -------------------
 
-7.1 **Questions**: If you have any questions or concerns regarding this privacy policy, you can contact us at qvn.secret@gmail.com.
+7.1 **Questions**: If you have any questions or concerns regarding this privacy policy, you can contact us at hi.squareup@gmail.com.
 
 By using Square, you acknowledge that you have read and understood this privacy policy.
